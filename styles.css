@@ -1,0 +1,6 @@
+
+h1{color:green;}
+.description-holder{display:flex;gap:10px;align-items: center;}
+.amount, .code{color: orange;}
+.cod{color: blue;}
+.sit{color:violet;}
